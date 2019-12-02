@@ -1,2 +1,4 @@
-# Recu021219
+# Recuperatorio
 Recuperatorio Logico Funcional
+
+
